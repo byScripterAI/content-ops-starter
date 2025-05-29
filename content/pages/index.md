@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Hablar con Scripter AI
         altText: ''
-        url: /
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right
