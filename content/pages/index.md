@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Hablar con Scripter AI
         altText: ''
-        url: /chat
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
