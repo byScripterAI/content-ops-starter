@@ -63,10 +63,12 @@ sections:
       - type: FeaturedItem
         title: Scripter TX
         subtitle: Modelo de texto
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          El modelo **Scripter TX** es un modelo simple, que simplemente genera
+          texto. Sirve para muchas tareas. Para que te informe sobre temas, para
+          que te de textos sobre algún tema en especifico que necesites, para
+          que te de ideas... y mucho mas. Usa ya nuestro modelo **Scripter TX**
+          completamente **gratis**.
         image:
           type: ImageBlock
           url: /images/Diseño sin título (6).png
