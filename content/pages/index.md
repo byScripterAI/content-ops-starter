@@ -33,7 +33,7 @@ sections:
     media:
       url: /images/Scipter AI.png
       altText: ''
-      elementId: ''
+      elementId: '1'
       type: ImageBlock
     badge:
       label: ECLIPSE STUDIOS PRESENTA
