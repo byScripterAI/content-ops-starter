@@ -94,7 +94,7 @@ sections:
         subtitle: Modelo Chat Bot
         text: >
           El modelo **Scripter CB** esta diseñado con la idea de acompañar.
-          Sirve para entretenerte, charla con el, busca maneras de no
+          Sirve para entretenerte, charlar con el, buscar maneras de no
           aburrirte... puedes usar ya de manera gratuita **Scripter CB**.
         image:
           type: ImageBlock
