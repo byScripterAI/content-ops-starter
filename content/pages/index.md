@@ -58,7 +58,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: by
+    subtitle: by Eclipse Studios
     items:
       - type: FeaturedItem
         title: 500k
