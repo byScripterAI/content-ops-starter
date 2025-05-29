@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Modelos Destacados
       color: text-dark
       styles:
         self:
