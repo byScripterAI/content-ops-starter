@@ -90,7 +90,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ''
+        title: Scripter CB
         subtitle: Scripter CB
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
