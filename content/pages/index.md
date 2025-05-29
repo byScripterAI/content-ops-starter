@@ -54,7 +54,7 @@ sections:
     title:
       type: TitleBlock
       text: Modelos Destacados
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center
