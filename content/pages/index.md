@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Scipter AI.png
+      url: /images/Diseño sin título.png
       altText: ''
       elementId: ''
       type: ImageBlock
