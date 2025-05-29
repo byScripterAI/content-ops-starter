@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ECLIPSE STUDIOS PRESENTS
+      label: ECLIPSE STUDIOS PRESENTA
       color: text-primary
       type: Badge
     elementId: ''
