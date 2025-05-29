@@ -93,9 +93,9 @@ sections:
         title: Scripter GN
         subtitle: Modelo generador
         text: >
-          El modelo **Scripter CB** esta diseñado con la idea de acompañar.
-          Sirve para entretenerte, charlar con el, buscar maneras de no
-          aburrirte... puedes usar ya de manera gratuita **Scripter CB**.
+          El modelo **Scripter GN** esta diseñado para crear todo lo que
+          imagines, programación, imágenes... y **próximamente** videos. Crea ya
+          de manera gratuita **Scripter GN**.
         image:
           type: ImageBlock
           url: /images/Diseño sin título (6).png
