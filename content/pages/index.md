@@ -8,12 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: by Hugo Gonzalez
-    text: >+
-      <div style="text-align: left"><sup>La empresa </sup>**<sup>Eclipse
-      Studios</sup>**<sup> ha decidido renovarse una vez mas creando
-      </sup>**<sup>Scripter AI,</sup>**<sup> una empresa enfocada en la creación
-      de modelos de inteligencia artificial.</sup></div>
-
+    text: >
+      <div style="text-align:
+      center"><sup></div></sup><sup></sup><sup></sup><sup></sup><sup></sup>
     actions:
       - label: Hablar con Scripter AI
         altText: ''
