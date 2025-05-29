@@ -98,7 +98,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/Diseño sin título (6).png
           altText: Featured icon two
           elementId: ''
         actions: []
