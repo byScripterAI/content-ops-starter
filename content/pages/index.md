@@ -2,54 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Scripter AI
-      color: text-dark
-      type: TitleBlock
-    subtitle: by Hugo Gonzalez
-    text: >
-      La empresa **Eclipse Studios** ha creado **Scripter AI**, una empresa
-      enfocada en la creación de modelos de IA.
-    actions:
-      - label: Hablar con Scripter AI
-        altText: ''
-        url: /chat
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Mas información
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Scipter AI.png
-      altText: ''
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ECLIPSE STUDIOS PRESENTA
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -167,6 +119,54 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Scripter AI
+      color: text-dark
+      type: TitleBlock
+    subtitle: by Hugo Gonzalez
+    text: >
+      La empresa **Eclipse Studios** ha creado **Scripter AI**, una empresa
+      enfocada en la creación de modelos de IA.
+    actions:
+      - label: Hablar con Scripter AI
+        altText: ''
+        url: /chat
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: Mas información
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/Scipter AI.png
+      altText: ''
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ECLIPSE STUDIOS PRESENTA
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
