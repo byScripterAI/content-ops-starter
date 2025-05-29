@@ -69,7 +69,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Diseño sin título (4).png
+          url: /images/Diseño sin título (5).png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
