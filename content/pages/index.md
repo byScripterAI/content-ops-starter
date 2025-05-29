@@ -92,10 +92,10 @@ sections:
       - type: FeaturedItem
         title: Scripter CB
         subtitle: Modelo Chat Bot
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          El modelo **Scripter CB** esta diseñado con la idea de acompañar.
+          Sirve para entretenerte, charla con el, busca maneras de no
+          aburrirte... puedes usar ya de manera gratuita **Scripter CB**.
         image:
           type: ImageBlock
           url: /images/Diseño sin título (6).png
