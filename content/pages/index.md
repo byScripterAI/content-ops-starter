@@ -10,8 +10,8 @@ sections:
     subtitle: by Hugo Gonzalez Franco
     text: >
       La empresa **Eclipse Studios** ha decidido renovarse una vez mas creando
-      ***Scripter AI ***una nueva empresa enfocada en la creación de modelos de
-      chat y voz de inteligencia artificial.
+      \***Scripter AI \*** una nueva empresa enfocada en la creación de modelos
+      de chat y voz de inteligencia artificial.
     actions:
       - label: Get started
         altText: ''
