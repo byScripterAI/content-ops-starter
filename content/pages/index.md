@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Scripter TX
-        subtitle: Numbers Done
+        subtitle: Modelo de texto
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
