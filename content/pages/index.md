@@ -64,11 +64,10 @@ sections:
         title: Scripter TX
         subtitle: Modelo de texto
         text: >
-          El modelo **Scripter TX** es un modelo simple, que simplemente genera
-          texto. Sirve para muchas tareas. Para que te informe sobre temas, para
-          que te de textos sobre algún tema en especifico que necesites, para
-          que te de ideas... y mucho mas. Usa ya nuestro modelo **Scripter TX**
-          completamente **gratis**.
+          **Scripter TX** es un modelo que simplemente genera texto. Sirve para
+          muchas tcosas. Para informarte sobre temas, para que te de textos,
+          para que te de ideas... y más. Usa ya **Scripter TX** completamente
+          **gratis**.
         image:
           type: ImageBlock
           url: /images/Diseño sin título (6).png
