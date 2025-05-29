@@ -13,7 +13,7 @@ sections:
       **Scripter AI**  una nueva empresa enfocada en la creación de modelos de
       chat y voz de inteligencia artificial.
     actions:
-      - label: Hablar con *Scripter AI*
+      - label: Hablar con Scripter AI
         altText: ''
         url: /
         showIcon: false
