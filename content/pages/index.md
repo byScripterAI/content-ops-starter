@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: /images/Scipter AI.png
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
