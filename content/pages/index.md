@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Modelos Destacados
+      text: Modelos Gratuitos
       color: text-primary
       styles:
         self:
