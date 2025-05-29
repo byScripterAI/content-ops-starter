@@ -91,7 +91,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Scripter GN
-        subtitle: Modelo Chat Bot
+        subtitle: Modelo generador
         text: >
           El modelo **Scripter CB** esta diseñado con la idea de acompañar.
           Sirve para entretenerte, charlar con el, buscar maneras de no
