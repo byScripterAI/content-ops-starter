@@ -61,7 +61,7 @@ sections:
     subtitle: by Eclipse Studios
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Scripter TX
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
