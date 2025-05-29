@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Scripter AI
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: by Hugo Gonzalez
     text: >
