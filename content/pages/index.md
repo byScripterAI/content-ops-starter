@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: by Hugo Gonzalez
-    text: >+
-      La empresa Eclipse Studios ha creado Scripter AI, una empresa enfocada en
-      la creación de modelos de IA.
-
+    text: >
+      La empresa **Eclipse Studios** ha creado **Scripter AI**, una empresa
+      enfocada en la creación de modelos de IA.
     actions:
       - label: Hablar con Scripter AI
         altText: ''
