@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Eclipse Studios Presents
+      label: Eclipse Studios
       color: text-primary
       type: Badge
     elementId: ''
