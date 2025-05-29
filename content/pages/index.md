@@ -90,7 +90,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Scripter CB
+        title: Scripter GN
         subtitle: Modelo Chat Bot
         text: >
           El modelo **Scripter CB** esta diseñado con la idea de acompañar.
