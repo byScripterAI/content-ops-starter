@@ -14,7 +14,7 @@ sections:
       chat y voz de inteligencia artificial.
     actions:
       - label: Hablar con Scripter AI
-        altText: ''
+        altText: a
         url: /
         showIcon: false
         icon: arrowRight
